@@ -1,1 +1,1 @@
-Client.exe
+Запуск от имени админа Celestial'a
